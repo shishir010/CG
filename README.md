@@ -1,63 +1,52 @@
-import React from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { BookOpen, Code, Image } from "lucide-react";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Computer Graphics Lab</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
 
-export default function GraphicsLab() {
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-slate-100 p-8">
-      <header className="mb-12 text-center">
-        <h1 className="text-4xl font-bold tracking-tight">Computer Graphics Lab</h1>
-        <p className="mt-3 text-slate-400">Structured lab work • Clean code • Visual output</p>
-      </header>
+  <header class="header">
+    <h1>Computer Graphics Lab</h1>
+    <p>Well-structured lab work with source, output, and explanation</p>
+  </header>
 
-      <section className="grid gap-8 md:grid-cols-3">
-        {/* LAB 1 */}
-        <Card className="bg-slate-900 border-slate-800 rounded-2xl shadow-lg hover:scale-[1.02] transition">
-          <CardContent className="p-6">
-            <div className="flex items-center gap-3 mb-4">
-              <Code className="w-6 h-6 text-blue-400" />
-              <h2 className="text-xl font-semibold">Lab 1</h2>
-            </div>
-            <p className="text-slate-400 text-sm mb-4">
-              Basic graphics primitives and first drawing programs.
-            </p>
-            <Button variant="outline" className="w-full">View Source</Button>
-          </CardContent>
-        </Card>
+  <main class="container">
 
-        {/* LAB 2 */}
-        <Card className="bg-slate-900 border-slate-800 rounded-2xl shadow-lg hover:scale-[1.02] transition">
-          <CardContent className="p-6">
-            <div className="flex items-center gap-3 mb-4">
-              <Image className="w-6 h-6 text-green-400" />
-              <h2 className="text-xl font-semibold">Lab 2</h2>
-            </div>
-            <p className="text-slate-400 text-sm mb-4">
-              Line, circle, and shape drawing algorithms with visuals.
-            </p>
-            <Button variant="outline" className="w-full">View Output</Button>
-          </CardContent>
-        </Card>
+    <section class="lab-card">
+      <h2>Lab 1</h2>
+      <p>Introduction to graphics, basic primitives, first drawing programs.</p>
+      <div class="actions">
+        <a href="Home/src/LAB 1/" target="_blank">Source Code</a>
+        <a href="Home/src/LAB 1/README_LAB1.md" target="_blank">README</a>
+      </div>
+    </section>
 
-        {/* LAB 3 */}
-        <Card className="bg-slate-900 border-slate-800 rounded-2xl shadow-lg hover:scale-[1.02] transition">
-          <CardContent className="p-6">
-            <div className="flex items-center gap-3 mb-4">
-              <BookOpen className="w-6 h-6 text-purple-400" />
-              <h2 className="text-xl font-semibold">Lab 3</h2>
-            </div>
-            <p className="text-slate-400 text-sm mb-4">
-              Transformations, scaling, rotation, and real examples.
-            </p>
-            <Button variant="outline" className="w-full">Read Docs</Button>
-          </CardContent>
-        </Card>
-      </section>
+    <section class="lab-card">
+      <h2>Lab 2</h2>
+      <p>Line and circle drawing algorithms with graphical output.</p>
+      <div class="actions">
+        <a href="Home/src/LAB 2/">Source Code</a>
+        <a href="Home/src/LAB 2/README.md">README</a>
+      </div>
+    </section>
 
-      <footer className="mt-16 text-center text-slate-500 text-sm">
-        © 2025 • Shishir Bhattarai • Computer Graphics Lab
-      </footer>
-    </div>
-  );
-}
+    <section class="lab-card">
+      <h2>Lab 3</h2>
+      <p>2D transformations: translation, scaling, rotation.</p>
+      <div class="actions">
+        <a href="Home/src/LAB 3/">Source Code</a>
+        <a href="Home/src/LAB 3/README.md">README</a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 • Shishir Bhattarai • Computer Graphics Lab</p>
+  </footer>
+
+</body>
+</html>
