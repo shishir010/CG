@@ -15,23 +15,19 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 
 ---
 
-## 🧪 Lab 2 – Line & Circle Drawing
+## 🧪 Lab 2 – Line
 **Topics**
-- Line drawing algorithms  
-- Circle drawing algorithms  
-- Graphical output  
+- Line drawing algorithms
 
 🔗 [Source Code](Home/src/LAB%202/)  
 📘 [README](Home/src/LAB%202/README.md)
 
 ---
 
-## 🧪 Lab 3 – 2D Transformations
+## 🧪 Lab 3 – -  Circle Drawing
 **Topics**
-- Translation  
-- Scaling  
-- Rotation  
-
+- Circle drawing algorithms  
+- Graphical output  
 🔗 [Source Code](Home/src/LAB%203/)  
 📘 [README](Home/src/LAB%203/README.md)
 
