@@ -31,12 +31,21 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 🔗 [Source Code](Home/src/LAB%203/)  
 📘 [README](Home/src/LAB%203/README.md)
 
+
 ## 🧪 Lab 4 – -  Midpoint Circle Generation Algorithm
 **Topics**
-- Circle drawing algorithms  
+- Midpoint Circle Generation Algorithm
 - Graphical output  
 🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%204/lab4.cpp)  
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%204/README.md)
+
+---
+## 🧪 Lab 5 – - Ellipse Generation Algorithm
+**Topics**
+- Ellipse Generation Algorithm 
+- Graphical output  
+🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%205/lab.cpp)  
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%205/README.md)
 
 ---
 
