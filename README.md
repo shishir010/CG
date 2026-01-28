@@ -50,7 +50,7 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 ---
 ## 🧪 Lab 6 – - Triangle Reflection Program
 **Topics**
-- Ellipse Generation Algorithm 
+- Triangle Reflection Program in C 
 - Graphical output  
 🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/lab6.cpp)  
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/README.md)
