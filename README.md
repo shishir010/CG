@@ -48,7 +48,7 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%205/README.md)
 
 ---
-## 🧪 Lab 5 – - Ellipse Generation Algorithm
+## 🧪 Lab 6 – - Triangle Reflection Program
 **Topics**
 - Ellipse Generation Algorithm 
 - Graphical output  
