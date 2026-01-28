@@ -48,6 +48,15 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%205/README.md)
 
 ---
+## 🧪 Lab 5 – - Ellipse Generation Algorithm
+**Topics**
+- Ellipse Generation Algorithm 
+- Graphical output  
+🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/lab6.cpp)  
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/README.md)
+
+---
+
 
 ### 👤 Author
 **Shishir Bhattarai**  
