@@ -31,6 +31,13 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 🔗 [Source Code](Home/src/LAB%203/)  
 📘 [README](Home/src/LAB%203/README.md)
 
+## 🧪 Lab 4 – -  Midpoint Circle Generation Algorithm
+**Topics**
+- Circle drawing algorithms  
+- Graphical output  
+🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%204/lab4.cpp)  
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%204/README.md)
+
 ---
 
 ### 👤 Author
