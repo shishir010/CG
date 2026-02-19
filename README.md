@@ -31,6 +31,7 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 🔗 [Source Code](Home/src/LAB%203/)  
 📘 [README](Home/src/LAB%203/README.md)
 
+---
 
 ## 🧪 Lab 4 – -  Midpoint Circle Generation Algorithm
 **Topics**
@@ -40,6 +41,7 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%204/README.md)
 
 ---
+
 ## 🧪 Lab 5 – - Ellipse Generation Algorithm
 **Topics**
 - Ellipse Generation Algorithm 
@@ -48,6 +50,7 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%205/README.md)
 
 ---
+
 ## 🧪 Lab 6 – - Triangle Reflection Program
 **Topics**
 - Triangle Reflection Program in C 
@@ -55,6 +58,34 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/lab6.cpp)  
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%206/README.md)
 
+---
+
+## 🧪 Lab 7 – - 2D Shapes
+**Topics**
+- 2D Shapes
+- Graphical output  
+🔗 [Source Code-Car:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Car)
+🔗 [Source Code-Fish:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Fish)
+🔗 [Source Code-House:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/House)
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%207/README.md)
+
+---
+
+## 🧪 Lab 8 – -  Fill enclosed shapes by coloring
+**Topics**
+-  Fill enclosed shapes by coloring
+- Graphical output  
+🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%208/lab8.cpp)  
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%208/README.md)
+
+---
+
+## 🧪 Lab 9 – -  Line Clipping
+**Topics**
+- Line Clipping Cohen–Sutherland Algorithm
+- Graphical output  
+🔗 [Source Code](https://github.com/shishir010/CG/blob/main/Home/src/LAB%209/lab9.cpp)  
+📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%209/README.md)
 ---
 
 
