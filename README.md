@@ -64,9 +64,9 @@ Well-structured lab work with **source code**, **output**, and **clear explanati
 **Topics**
 - 2D Shapes
 - Graphical output  
-🔗 [Source Code-Car:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Car)
-🔗 [Source Code-Fish:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Fish)
-🔗 [Source Code-House:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/House)
+🔗 [Source Code-Car:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Car) <br>
+🔗 [Source Code-Fish:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/Fish)  <br>
+🔗 [Source Code-House:](https://github.com/shishir010/CG/tree/main/Home/src/LAB%207/House) 
 📘 [README](https://github.com/shishir010/CG/blob/main/Home/src/LAB%207/README.md)
 
 ---
